@@ -1,0 +1,12 @@
+{
+  "apis": [
+    "/joke",
+    "/advice", 
+    "/clyde?text={text}", 
+    "/baguette?url={image_url}"
+  ], 
+  "discord": [
+    "/invite?id={bot_id}&perms={permissions}"
+  ],
+  "responce_type": "{ message: message, success: true }"
+}
